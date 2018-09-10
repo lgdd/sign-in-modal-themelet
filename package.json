@@ -1,6 +1,6 @@
 {
 	"name": "sign-in-modal-themelet",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"license": "MIT",
 	"repository": "github:lgdd/sign-in-modal-themelet",
 	"main": "package.json",
