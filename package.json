@@ -1,0 +1,21 @@
+{
+	"name": "sign-in-modal-themelet",
+	"version": "1.0.0",
+	"license": "MIT",
+	"repository": "github:lgdd/sign-in-modal-themelet",
+	"main": "package.json",
+	"keywords": [
+		"liferay-theme",
+		"liferay-themelet",
+		"liferay",
+		"themelet",
+		"theme",
+		"sign-in",
+		"sign"
+	],
+	"liferayTheme": {
+		"screenshot": "",
+		"themelet": true,
+		"version": "*"
+	}
+}
