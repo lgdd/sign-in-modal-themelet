@@ -1,6 +1,6 @@
 # Sign In Modal Themelet
 
-Add default Liferay sign in modal behavior on Liferay 7.x themes.
+Add default Liferay sign in modal behavior to Liferay 7.x themes.
 
 When you create a new Liferay theme, you don't have this modal by default and when you click on _Sign in_, you are redirected to a new page.
 
